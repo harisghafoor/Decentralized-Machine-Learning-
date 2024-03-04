@@ -1,4 +1,4 @@
-# Decentralized-Machine-Learning-
+# EdgeLearner: A Decentralized Deep Learning Framework for Optimized and Secure Training Mechanism
 
 ## Abstract: 
 
