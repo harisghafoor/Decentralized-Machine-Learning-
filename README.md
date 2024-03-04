@@ -1,7 +1,4 @@
 # EdgeLearner: A Decentralized Deep Learning Framework for Optimized and Secure Training Mechanism
-
-## Abstract: 
-
 Decentralized Machine Learning is the distributed training of an ML model on more than 
 one device. It reduces the computational load on a device by distributing the centralized 
 training models over many devices. Distributed training models, in contrast to centralized 
